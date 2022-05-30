@@ -1,2 +1,2 @@
 # workout
-record workout
+Record workout
